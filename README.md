@@ -1,5 +1,6 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-:imp:
-:cupid:
+:imp: :cupid:
+
+```python
+import numpy as np
+```
+
